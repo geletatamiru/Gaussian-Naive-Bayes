@@ -1,3 +1,12 @@
+##  Group Members
+
+| No. | Name              | ID           |
+|----:|-------------------|--------------|
+| 1   | Abel Getachew     | UGR/6211/15  |
+| 2   | Dagmawi Heywot    | UGR/4392/15  |
+| 3   | Geleta Tamiru     | UGR/2035/15  |
+| 4   | Nathnael Lule     | UGR/1003/15  |
+
 # Gaussian Naive Bayes (Python)
 
 This repository contains a **implementation of the Gaussian Naive Bayes (GNB) classification algorithm** using **Python and NumPy**
@@ -72,11 +81,4 @@ Where:
 | Female | 162 | 58 | 23 |
 
 ---
-##  Group Members
 
-| No. | Name              | ID           |
-|----:|-------------------|--------------|
-| 1   | Abel Getachew     | UGR/6211/15  |
-| 2   | Dagmawi Heywot    | UGR/4392/15  |
-| 3   | Geleta Tamiru     | UGR/2035/15  |
-| 4   | Nathnael Lule     | UGR/1003/15  |
