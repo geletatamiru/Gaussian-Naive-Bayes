@@ -1,12 +1,12 @@
 # Gaussian Naive Bayes (Python)
 
-This repository contains a ** implementation of the Gaussian Naive Bayes (GNB) classification algorithm** using **Python and NumPy**
+This repository contains a **implementation of the Gaussian Naive Bayes (GNB) classification algorithm** using **Python and NumPy**
 
 The project demonstrates how continuous features can be modeled using **Gaussian (normal) distributions** and applied to a simple real-world classification problem.
 
 ---
 
-## 📌 Problem Description
+## Problem Description
 
 Given a small dataset containing physical attributes of people:
 - Height (cm)
@@ -22,7 +22,7 @@ The goal is to:
 
 ---
 
-## 🧠 Theory Overview
+##  Theory Overview
 
 Gaussian Naive Bayes is a **probabilistic classification algorithm** based on **Bayes’ Theorem**, with the assumptions that:
 1. Features are **conditionally independent** given the class
@@ -42,7 +42,7 @@ Where:
 
 ---
 
-## ⚙️ Implementation Details
+## Implementation Details
 
 - **Language**: Python  
 - **Libraries used**: NumPy (for mathematical operations)
@@ -58,7 +58,7 @@ Where:
 
 ---
 
-## 🧪 Dataset Used
+##  Dataset Used
 
 | Gender | Height (cm) | Weight (kg) | Foot Size (cm) |
 |------|------------|-------------|---------------|
@@ -72,7 +72,7 @@ Where:
 | Female | 162 | 58 | 23 |
 
 ---
-## 👥 Group Members
+##  Group Members
 
 | No. | Name              | ID           |
 |----:|-------------------|--------------|
